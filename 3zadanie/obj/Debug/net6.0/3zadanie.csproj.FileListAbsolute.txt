@@ -1,0 +1,15 @@
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.csproj.AssemblyReference.cache
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.AssemblyInfoInputs.cache
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.AssemblyInfo.cs
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.csproj.CoreCompileInputs.cache
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/bin/Debug/net6.0/3zadanie
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/bin/Debug/net6.0/3zadanie.deps.json
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/bin/Debug/net6.0/3zadanie.runtimeconfig.json
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/bin/Debug/net6.0/3zadanie.dll
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/bin/Debug/net6.0/3zadanie.pdb
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.dll
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/refint/3zadanie.dll
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.pdb
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/3zadanie.genruntimeconfig.cache
+/Users/fazylovdenis/Downloads/DZ2/3zadanie/obj/Debug/net6.0/ref/3zadanie.dll
